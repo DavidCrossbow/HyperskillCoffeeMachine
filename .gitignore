@@ -1,0 +1,5 @@
+*.yaml
+*/*.html
+*/out/*
+*/build/*
+*/test/*
